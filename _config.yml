@@ -4,8 +4,8 @@
 
 # Site
 title: 苗条冠儒的博客
-subtitle:
-description: 不忘初心，方得始终
+subtitle: 守得云开见红日  拨开云雾见明月
+description: 不忘初心 方得始终
 #keywords:
 author: mtgr1020
 language: zh-Hans
@@ -112,9 +112,14 @@ live2d:
      use: live2d-widget-model-wanko
 #     use: live2d-widget-model-z16  #护士装的妹子
 #     use: live2d-widget-model-epsilon2_1  #夏装的妹子
+#     use: live2d-widget-model-shizuku  #同桌的你
+#     use: live2d-widget-model-tororo   #小丸子同学
+#     use: live2d-widget-model-tsumiki   #不好看的
+#     use: live2d-widget-model-unitychan #大辫子小女警
+#     use: live2d-widget-model-miku
   display:
     position: right
-    width: 100
-    height: 100
+    width: 180
+    height: 150
   mobile:
     show: true
